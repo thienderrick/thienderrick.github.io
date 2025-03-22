@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Contact Information
-**Email:** dnaa2018@mymail.pomona.edu
-**LinkedIn Profile:** [LinkedIn](www.linkedin.com/in/derrick-nguyen-a18732176)
-Additional Information Available Upon Inquiry
+* **Email:** dnaa2018@mymail.pomona.edu
+* **LinkedIn Profile:** [LinkedIn](www.linkedin.com/in/derrick-nguyen-a18732176)
+* Additional Information Available Upon Inquiry
 
 Education
 ======
