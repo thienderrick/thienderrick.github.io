@@ -11,46 +11,29 @@ redirect_from:
 
 ## Contact Information
 * **Email:** dnaa2018@mymail.pomona.edu
-* **LinkedIn Profile:** [LinkedIn](www.linkedin.com/in/derrick-nguyen-a18732176)
+* **LinkedIn Profile:** 
 * Additional Information Available Upon Inquiry
 
 Education
 ======
 * B.A. in Linguistics, Pomona College, 2022
-* Non-Degree Program, Southeast Asian Studies Summer Institute - Vietnamese, University of Wisconsin - Madison, 2022
-* Non-Degree Program, Pitzer Summer Study Abroad, Modern Vietnam & Vietnamese Language, Hue University, 2019
+* Non-Degree Program, University of Wisconsin - Madison, Summer 2022
+* Non-Degree Program, Hue University (ĐH Huế), Summer 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* **Aug 2024 – Present: Lab Manager & Research Coordinator**  
+* Aug 2024 – Present: **Lab Manager & Research Coordinator**  
   * Neurological Education Research Development (NERD) Lab, Columbia, Missouri  
-  * Led multi-study data collection and analysis, programming experiments in Qualtrics, PsychoPy (Python, JavaScript), and Pavlovia.
-  * Coordinated with IRB to implement research design updates across EEG, fNIRS, and neurolinguistic perception studies.
-  * Supervised and mentored 6 undergraduate researchers, organizing professional development workshops on Resume/CV building and graduate admissions.
-  * Designed lab's visual identity, creating a hand-drawn logo and migrating the lab website from Strikingly to Google Sites.
+  * Supervisor: Dr. Laura M. Morett, PhD
 
-* **Jul 2023 – Mar 2024: Student Success Coach**  
+* Jul 2023 – Mar 2024: **Student Success Coach**  
   * AmeriCorps – City Year, Tulsa, Oklahoma  
-  * Served 200+ students in a high-need Tulsa public high school English classroom.
-  * Implemented planned interventions to increase literacy comprehension (25% improvement in MAP Scores).
-  * Managed a caseload of 30 students per quarter, developing social-emotional learning and increasing attendance rates.
-  * **DBIE (Diversity, Belonging, Inclusion, and Equity) Coordinator** for School Team, implementing cultural competency activities.
-  * Co-coordinated College Access Initiative at Nathan Hale High School, reading applications and providing financial aid guidance.
 
-* **Feb 2019 – Dec 2022: Assistant Manager & Store Clerk**  
+* Feb 2019 – Dec 2022: **Assistant Manager & Store Clerk**  
   * Pomona College Co-op Store, Claremont, California  
-  * Supervised and trained 60+ student staff, sustaining 12 vendor relationships.
-  * Reduced online customer lead time from 2 weeks to 1 week on Shopify.
-  * Created the store's Instagram account (@coopstore47), amassing 300+ followers.
 
-* **Aug 2020 – Mar 2021: Alternabreak Project Coordinator – Operations Internship**  
-  * Asian American Resource Center, Claremont, California  
-  * Coordinated a 4-day alternative spring break experience for 8 students.
+* Aug 2020 – Mar 2021: **Alternabreak Project Coordinator – Operations Internship**  
+  * Asian American Resource Center, Claremont, California
 
 Presentations & Guest Lectures
 ======
@@ -88,7 +71,6 @@ Academic Community & Institutional Services
 - **2023-2024** Tulsa Public Schools, Authorized Spanish Interpreter & Translator
 - **2019** Hope Center Hue, Assistant English Instructor
 - **2019** The Draper Center for Community Partnerships, AVID First-Gen Panelist
-
 
 Skills
 ======
