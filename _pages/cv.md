@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+## Contact Information
+**Email:** dnaa2018@mymail.pomona.edu
+**LinkedIn Profile:** [LinkedIn](www.linkedin.com/in/derrick-nguyen-a18732176)
+Additional Information Available Upon Inquiry
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.A. in Linguistics, Pomona College, 2022
+* Non-Degree Program, Southeast Asian Studies Summer Institute - Vietnamese, University of Wisconsin - Madison, 2022
+* Non-Degree Program, Pitzer Summer Study Abroad, Modern Vietnam & Vietnamese Language, Hue University, 2019
 
 Work experience
 ======
@@ -22,24 +27,79 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Aug 2024 – Present: Lab Manager & Research Coordinator**  
+  * Neurological Education Research Development (NERD) Lab, Columbia, Missouri  
+  * Led multi-study data collection and analysis, programming experiments in Qualtrics, PsychoPy (Python, JavaScript), and Pavlovia.
+  * Coordinated with IRB to implement research design updates across EEG, fNIRS, and neurolinguistic perception studies.
+  * Supervised and mentored 6 undergraduate researchers, organizing professional development workshops on Resume/CV building and graduate admissions.
+  * Designed lab's visual identity, creating a hand-drawn logo and migrating the lab website from Strikingly to Google Sites.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Jul 2023 – Mar 2024: Student Success Coach**  
+  * AmeriCorps – City Year, Tulsa, Oklahoma  
+  * Served 200+ students in a high-need Tulsa public high school English classroom.
+  * Implemented planned interventions to increase literacy comprehension (25% improvement in MAP Scores).
+  * Managed a caseload of 30 students per quarter, developing social-emotional learning and increasing attendance rates.
+  * **DBIE (Diversity, Belonging, Inclusion, and Equity) Coordinator** for School Team, implementing cultural competency activities.
+  * Co-coordinated College Access Initiative at Nathan Hale High School, reading applications and providing financial aid guidance.
+
+* **Feb 2019 – Dec 2022: Assistant Manager & Store Clerk**  
+  * Pomona College Co-op Store, Claremont, California  
+  * Supervised and trained 60+ student staff, sustaining 12 vendor relationships.
+  * Reduced online customer lead time from 2 weeks to 1 week on Shopify.
+  * Created the store's Instagram account (@coopstore47), amassing 300+ followers.
+
+* **Aug 2020 – Mar 2021: Alternabreak Project Coordinator – Operations Internship**  
+  * Asian American Resource Center, Claremont, California  
+  * Coordinated a 4-day alternative spring break experience for 8 students.
+
+Presentations & Guest Lectures
+======
+- **P06** (2025) *Impacts of Pitch Gestures on Lexical Tone Learning with Identification and Discrimination Tasks* [Conference Poster Session]. Human Sentence Processing, University of Maryland – College Park
+- **P05** (2024) *Who’s Gagged? Drag Performers’ Autonomy and “Dragging” Their Antagonists* [Internal Guest Lecture], ANTH104 Linguistic Anthropology, Pomona College
+- **P04** (2022) *We Were Here* [Senior Art Exhibition Thesis], Pomona College
+- **P03** (2022) *Analyzing Collocations for (Vietnamese) Language Learning: Using “TÌNH” as a Model*, WISLI Student Conference
+- **P02** (2021) *Vietnamese Calendars*, STEM Equity Symposium at the Claremont Colleges
+- **P01** (2021) *Intro to Vietnamese Linguistics: A Teaching Model (In Progress)*, Intensive Summer Experience Symposium
+
+Academic Community & Institutional Services
+======
+- **2023-Present** Pomona College First-Generation Low-Income Scholars, Alumni Archivist & Mentor (Virtual)
+- **2025** University of Missouri - Columbia, Sectional Champion Tournament – Mod Volunteer
+- **2025** University of Missouri - Columbia, Tiger Bowl X – Academic Bowl Mod Volunteer
+- **2024** University of Missouri - Columbia, STEM Cubs - Instructor, 4th & 5th Grade
+- **2021-2022** Pomona College First-Gen Low-Income Scholars, Student Mentor
+- **2020-2022** Pomona College Department of Linguistics, Department Liaison
+- **2020-2022** Claremont Colleges Vietnamese Students Association, Student Mentor
+- **2020-2021** Oldenborg Center for Modern Languages, Vietnamese Mentor
+- **2020** Pomona College Department of Linguistics, Linguistics Mentor
+- **2020** Pomona College Asian American Resource Center, Student Mentor
+- **2020** Splash @ Claremont Colleges, Student Instructor of *Tragedies and Their Triumphs*
+- **2019** Splash @ UCLA, Student Instructor of *True Crime and Social Justice*
+- **2019** Splash @ Claremont Colleges, Student Instructor of *True Crime and Social Justice*
+- **2019** Hue University, English Mentor
+
+## Additional Community & Volunteer Services
+- **2024-Present** QuestBridge, Volunteer Alumni Mentor
+- **2024-Present** Students Rising Above, Volunteer Recent Grad Mentor
+- **2025** Tulsa Public Schools & AmeriCorps, Lunch & Learn @ Hale High School
+- **2025** Arkansas Governor’s Quiz Bowl Association, Academic Bowl Mod Volunteer
+- **2024-2025** Oklahoma Secondary Schools Athletics Association, Academic Bowl Volunteer
+- **2023-2024** AmeriCorps – City Year, Student Success Coach & DEI Coordinator @ Hale High School
+- **2023-2024** Tulsa Public Schools, Authorized Spanish Interpreter & Translator
+- **2019** Hope Center Hue, Assistant English Instructor
+- **2019** The Draper Center for Community Partnerships, AVID First-Gen Panelist
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Tools:** Adobe Creative Cloud (Photoshop, Illustrator, Premiere), iMovie, Microsoft & Google Suite, Linux (Unix), R-Studio, PsychoPy, Qualtrics, Canva, Shopify, WordPress.org, Audacity, Obsidian  
+* **Languages:** Spanish (Limited Working Proficiency), Vietnamese (Limited Working Proficiency)
+
+Media Appearances & Features
+======
+- **F03** *The Sensitive Kind*, Background Extra, Filmed March 2025; Aired November 2025 (Tulsa, OK) [Link]
+- **F02** *Arkansas PBS*, Subject of Feature Segment, Filmed March 2025; Aired April 2025 (Little Rock, AR) [Link]
+- **F01** *City Year Tulsa - AmeriCorps*, Subject of Feature Video, February 12, 2024 (Tulsa, OK) [Link]
 
 Publications
 ======
@@ -58,7 +118,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
