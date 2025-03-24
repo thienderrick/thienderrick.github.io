@@ -25,11 +25,11 @@ author:
   avatar           : "nguder22.jpeg"
   name             : "Đerrick (Thiện)"
   pronouns         : "he/they" # example: "she/her"  
-  bio              : "Emerging Academic from the Ozarks"
-  location         : "USA"
-  employer         : "Pomona College '22"
+  bio              : "dnaa2018 [at] mymail [dot] pomona [dot] edu"
+  location         : "The Ozarks, USA"
+  employer         : "Pomona '22"
   uri              : # URL
-  email            : "dnaa2018@mymail.pomona.edu" 
+  email            : "" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : derrick-nguyen-a18732176 # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
