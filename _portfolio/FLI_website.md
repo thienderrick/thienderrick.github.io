@@ -1,6 +1,6 @@
 ---
 title: "Pomona FLI Scholars Website"
-excerpt: "An updated digital archive of Pomona College's First-Generation Low-Income (FLI) Club's history and legacy.<br/><img src='/images/FLI_Logo_Transparent_300px.png'>
+excerpt: "An updated digital archive of Pomona College's First-Generation Low-Income (FLI) Club's history and legacy.<br/><img src="images/FLI_Logo_Transparent_300px.png">
 collection: portfolio
 ---
 
