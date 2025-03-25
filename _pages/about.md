@@ -11,6 +11,24 @@ redirect_from:
 
 My name is Đerrick, and I am currently a lab manager for the Neuroscience of Education Research on Development (NERD) Lab at the University of Missouri within the Department of Speech, Language, and Hearing Sciences at the College of Health sciences, where I work under Dr. Laura M. Morett's supervision. **My current research projects explores second language acquisition, with a particular focus on the role of multimodal processing in lexical tone perception.** I am ecstatic to explore the field of Linguistics from different perspectives to curate my interdiscplinary training for my future graduate studies. 
 
-As for my academic background, I hail from a multicultural public high school in Springdale, Arkansas before being named a QuestBridge Match Scholar and spending my undergrad years in Claremont, California, where I received my B.A. from Pomona College. I've learned from Asian Pacific Islander Desi American (APIDA) labor leaders all throughout California to my own heritage language at Pitzer College, Hue University, and the Southeast Asian Studies Summer Institute (SEASSI) at the University of Wisconsin - Madison. My work has been supported by the Foreign Language and Area Studies Fellowship, and the Yidan Expendable Fund for Transformative Learning.
+As for my academic background, I hail from a multicultural public high school in **Springdale, Arkansas** before being named a **QuestBridge Match Scholar** and spending my undergrad years in Claremont, California, where I received my B.A. from **Pomona College**. I've learned from Asian Pacific Islander Desi American (APIDA) labor leaders all throughout California to my own heritage language at **Pitzer College**, **Hue University**, and the **Southeast Asian Studies Summer Institute (SEASSI) at the University of Wisconsin - Madison**. My work has been supported by the **Foreign Language and Area Studies Fellowship**, and the **Yidan Expendable Fund for Transformative Learning**.
 
 In my free time, I enjoy mentoring first-generation, low-income students, and curating stories through archival projects. I’m also passionate about language learning! I've  studied Spanish, Vietnamese, and Japanese.
+
+---
+
+# 📰 Latest News & Updates
+
+## March 2025
+- **🎓 Presentation at Human Sentence Processing 2025!**  
+  Got to share the lab's research on Lexical Tone Acquisition at Human Sentence Processing 2025 at the University of Maryland!
+
+- **🎥 Played an Extra Role for an upcoming TV Series!**
+  Never would have thought I would be able to tick this off my bucket list. Furthermore, I got to meet Sterling Harjo Jr.! I'm so awestruck from the experience.
+
+- **🎥 Interviewed for April Programming!**
+  I was interviewed for an upcoming feature from Arkansas PBS!
+
+## January 2025
+- **🌍 Fulbright Update**  
+  Selected as a semi-finalist to Vietnam!
