@@ -40,7 +40,7 @@ Work experience
 
 Awards & Funding
 ======
-- **A04** (2024) Fulbright Fellowship English Teaching Assistantship, Semi-Finalist (Awaiting Final Selection Status)
+- **A04** (2025) Fulbright Fellowship English Teaching Assistantship, Semi-Finalist (Awaiting Final Selection Status)
 - **A03** (2022) Foreign Language and Area Studies Fellowship, Summer, Vietnamese, $6,700
 - **A02** (2021) Yidan Expendable Fund for Transformative Learning Opportunities for Asian Studies, $3,000 
 - **A01** (2018-2022) Questridge National Match Scholarship to Pomona College, $300k+
@@ -92,14 +92,14 @@ Academic Community & Institutional Services
 
 Skills
 ======
-* **Tools:** Adobe Creative Cloud (Photoshop, Illustrator, Premiere), iMovie, Microsoft & Google Suite, Linux (Unix), R-Studio, PsychoPy, Qualtrics, Canva, Shopify, WordPress.org, Audacity, Obsidian, GitHub, Python,   
+* **Tools:** Adobe Creative Cloud (Photoshop, Illustrator, Premiere), iMovie, Microsoft & Google Suite, Linux (Unix), R-Studio (Beginner), PsychoPy, Qualtrics, Canva, Shopify, WordPress.org, Audacity, Obsidian, GitHub, Python (Beginner), JavaScript (Beginner)   
 * **Languages:** Spanish (Limited Working Proficiency), Vietnamese (Limited Working Proficiency)
 
 Media Appearances & Features
 ======
 - **F03** *The Sensitive Kind*, Background Extra, Filmed March 2025; Aired November 2025 (Tulsa, OK) [Link]
 - **F02** *Arkansas PBS*, Subject of Feature Segment, Filmed March 2025; Aired April 2025 (Little Rock, AR) [Link]
-- **F01** *City Year Tulsa - AmeriCorps*, Subject of Feature Video, February 12, 2024 (Tulsa, OK) [Link]
+- **F01** *City Year Tulsa - AmeriCorps*, Subject of Feature Video, February 12, 2024 (Tulsa, OK) <a href="https://www.facebook.com/watch/?v=1069545221043319">[Link]</a>
 
 Publications
 ======
