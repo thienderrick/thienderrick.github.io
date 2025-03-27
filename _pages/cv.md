@@ -11,26 +11,29 @@ redirect_from:
 
 ## Contact Information
 * **Email:** dnaa2018@mymail.pomona.edu
-* **LinkedIn Profile:** 
+* **LinkedIn Profile:** <a href="https://www.linkedin.com/in/derrick-nguyen-a18732176/"> Link </a>
 * Additional Information Available Upon Inquiry
 
 Education
 ======
 * B.A. in Linguistics, Pomona College, 2022
 * Non-Degree Program, University of Wisconsin - Madison, Summer 2022
-* Non-Degree Program, Hue University (ĐH Huế), Summer 2019
+* Non-Degree Program, Hue University (Đại Học Huế), Summer 2019
 
 Work experience
 ======
 * Aug 2024 – Present: **Lab Manager & Research Coordinator**  
   * Neurological Education Research Development (NERD) Lab, Columbia, Missouri  
-  * Supervisor: Dr. Laura M. Morett, PhD
+  * Supervisor: **Dr. Laura M. Morett, PhD**
 
 * Jul 2023 – Mar 2024: **Student Success Coach**  
   * AmeriCorps – City Year, Tulsa, Oklahoma  
 
 * Feb 2019 – Dec 2022: **Assistant Manager & Store Clerk**  
   * Pomona College Co-op Store, Claremont, California  
+
+* June 2022 – July 2022: **Front Desk Worker**  
+  * University of Wisconsin, Madison, Wisconsin  
 
 * Aug 2020 – Mar 2021: **Alternabreak Project Coordinator – Operations Internship**  
   * Asian American Resource Center, Claremont, California
@@ -39,10 +42,17 @@ Presentations & Guest Lectures
 ======
 - **P06** (2025) *Impacts of Pitch Gestures on Lexical Tone Learning with Identification and Discrimination Tasks* [Conference Poster Session]. Human Sentence Processing, University of Maryland – College Park
 - **P05** (2024) *Who’s Gagged? Drag Performers’ Autonomy and “Dragging” Their Antagonists* [Internal Guest Lecture], ANTH104 Linguistic Anthropology, Pomona College
-- **P04** (2022) *We Were Here* [Senior Art Exhibition Thesis], Pomona College
-- **P03** (2022) *Analyzing Collocations for (Vietnamese) Language Learning: Using “TÌNH” as a Model*, WISLI Student Conference
-- **P02** (2021) *Vietnamese Calendars*, STEM Equity Symposium at the Claremont Colleges
-- **P01** (2021) *Intro to Vietnamese Linguistics: A Teaching Model (In Progress)*, Intensive Summer Experience Symposium
+- **P0a** (2024) *Language and History: Bikini and Totem Pole* [Community Conference Session]. City Year Tulsa Ignite Talks, Tulsa Public Library
+- **P04** (2022) *We Were Here* [Senior Art Exhibition Thesis], Linguistics & Cognitive Science Senior Showcase, Pomona College
+- **P03** (2022) *Analyzing Collocations for (Vietnamese) Language Learning: Using “TÌNH” as a Model* [Conference Session], WISLI Student Conference, University of Wisconsin - Madison
+- **P02** (2021) *Vietnamese Calendars* [Poster Session], STEM Equity Symposium at the Claremont Colleges
+- **P01** (2021) *Intro to Vietnamese Linguistics: A Teaching Model (In Progress)* [Panel Session], Intensive Summer Experience Symposium, Pomona College
+
+
+Papers & Publications
+======
+- **X02** Morett, L.M., **Nguyen, D.**, Karlin, R., Getz, L., *In Progress Writing; Tentative Publication in 2027 or 2028*
+- **X01** **Nguyen, D.**, Young S., Earle, F.S., Morett, L.M., *In Progress of Writing; Tentative Publication in 2026 or 2027* 
 
 Academic Community & Institutional Services
 ======
@@ -64,6 +74,7 @@ Academic Community & Institutional Services
 ## Additional Community & Volunteer Services
 - **2024-Present** QuestBridge, Volunteer Alumni Mentor
 - **2024-Present** Students Rising Above, Volunteer Recent Grad Mentor
+- **2024-Present** (Selective) College Admission Specialist, Pro-Bono Community Volunteer
 - **2025** Tulsa Public Schools & AmeriCorps, Lunch & Learn @ Hale High School
 - **2025** Arkansas Governor’s Quiz Bowl Association, Academic Bowl Mod Volunteer
 - **2024-2025** Oklahoma Secondary Schools Athletics Association, Academic Bowl Volunteer
@@ -74,7 +85,7 @@ Academic Community & Institutional Services
 
 Skills
 ======
-* **Tools:** Adobe Creative Cloud (Photoshop, Illustrator, Premiere), iMovie, Microsoft & Google Suite, Linux (Unix), R-Studio, PsychoPy, Qualtrics, Canva, Shopify, WordPress.org, Audacity, Obsidian  
+* **Tools:** Adobe Creative Cloud (Photoshop, Illustrator, Premiere), iMovie, Microsoft & Google Suite, Linux (Unix), R-Studio, PsychoPy, Qualtrics, Canva, Shopify, WordPress.org, Audacity, Obsidian, GitHub, Python,   
 * **Languages:** Spanish (Limited Working Proficiency), Vietnamese (Limited Working Proficiency)
 
 Media Appearances & Features
