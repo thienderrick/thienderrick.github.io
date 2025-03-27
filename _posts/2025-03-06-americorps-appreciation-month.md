@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "2025-03 AmeriCorps Appreciation Month"
 date: 2025-03-06
 permalink: /posts/2025/03/blog-post-2/
