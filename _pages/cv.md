@@ -38,6 +38,13 @@ Work experience
 * Aug 2020 – Mar 2021: **Alternabreak Project Coordinator – Operations Internship**  
   * Asian American Resource Center, Claremont, California
 
+Awards & Funding
+======
+- **A04** (2024) Fulbright Fellowship English Teaching Assistantship, Semi-Finalist (Awaiting Final Selection Status)
+- **A03** (2022) Foreign Language and Area Studies Fellowship, Summer, Vietnamese, $6,700
+- **A02** (2021) Yidan Expendable Fund for Transformative Learning Opportunities for Asian Studies, $3,000 
+- **A01** (2018-2022) Questridge National Match Scholarship to Pomona College, $300k+
+
 Presentations & Guest Lectures
 ======
 - **P06** (2025) *Impacts of Pitch Gestures on Lexical Tone Learning with Identification and Discrimination Tasks* [Conference Poster Session]. Human Sentence Processing, University of Maryland – College Park
