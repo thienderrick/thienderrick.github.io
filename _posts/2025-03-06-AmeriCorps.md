@@ -13,7 +13,7 @@ tags:
 
 I'm incredibly honored to have had the opportunity to return to the school I served at and share my journey from a similar multicultural public high school in Arkansas. I even got to talk about the high-quality education I received through the QuestBridge National College Match, emphasizing that yes—a top-tier education **can** be accessible. It’s a full-circle moment for me, considering I used to be (and honestly still am) quite the troublemaker and “character.” 😅  
 
-![text](/images/2025-03-06_blogpost_image1.jpg)
+![text](/images/2025-03-06_blogpost_image2.jpg)
 
 ---  
 
