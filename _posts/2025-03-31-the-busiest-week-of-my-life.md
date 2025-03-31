@@ -8,6 +8,8 @@ tags:
   - community engagement
 ---
 
+Highlighting a busy week for Springdale High School '18, Pomona College '22, and City Year '24 (despite not finishing my term) Alumnus. 
+
 # 🚀 2025-03: The Busiest Week of My Life  
 
 As I soak in the last few months of being a fresh, young 24-year-old, I can't help but reflect on the absolute whirlwind that was this past week. Crazy. Hectic. Absolutely nonstop. But through all of it, I feel so incredibly lucky to be where I am today.  
