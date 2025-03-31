@@ -1,11 +1,8 @@
-------
-
+---
 permalink: /art/
 title: "Art"
 author_profile: true
-redirect_from: 
-
-------
+---
 
 Here is a collection of the many creative projects I've produced.
 
