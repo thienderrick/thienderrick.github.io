@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,7 +23,7 @@ Education
 Work experience
 ======
 * Aug 2024 – Present: **Lab Manager & Research Coordinator**  
-  * Neurological Education Research Development (NERD) Lab, Columbia, Missouri  
+  * Neuroscience of Education Research on Development (NERD) Lab, Columbia, Missouri  
   * Supervisor: **Dr. Laura M. Morett, PhD**
 
 * Jul 2023 – Mar 2024: **Student Success Coach**  
@@ -43,11 +43,12 @@ Awards & Funding
 - **A04** (2025) Fulbright Fellowship English Teaching Assistantship, Semi-Finalist (Awaiting Final Selection Status)
 - **A03** (2022) Foreign Language and Area Studies Fellowship, Summer, Vietnamese, $6,700
 - **A02** (2021) Yidan Expendable Fund for Transformative Learning Opportunities for Asian Studies, $3,000 
-- **A01** (2018-2022) Questridge National Match Scholarship to Pomona College, $300k+
+- **A01** (2018-2022) QuestBridge National Match Scholarship to Pomona College, $300k+
 
 Presentations & Guest Lectures
 ======
 - **P06** (2025) *Impacts of Pitch Gestures on Lexical Tone Learning with Identification and Discrimination Tasks* [Conference Poster Session]. Human Sentence Processing, University of Maryland – College Park
+- **P0b** (2025) *Lunch and Learn with Derrick* [Community Presentation]. Nathan Hale High School, Tulsa, Oklahoma
 - **P05** (2024) *Who’s Gagged? Drag Performers’ Autonomy and “Dragging” Their Antagonists* [Internal Guest Lecture], ANTH104 Linguistic Anthropology, Pomona College
 - **P0a** (2024) *Language and History: Bikini and Totem Pole* [Community Conference Session]. City Year Tulsa Ignite Talks, Tulsa Public Library
 - **P04** (2022) *We Were Here* [Senior Art Exhibition Thesis], Linguistics & Cognitive Science Senior Showcase, Pomona College
@@ -59,7 +60,7 @@ Presentations & Guest Lectures
 Papers & Publications
 ======
 - **X02** Morett, L.M., **Nguyen, D.**, Karlin, R., Getz, L., *In Progress Writing; Tentative Publication in 2027 or 2028*
-- **X01** **Nguyen, D.**, Young S., Earle, F.S., Morett, L.M., *In Progress of Writing; Tentative Publication in 2026 or 2027* 
+- **X01** **Nguyen, D.**, Young S., Earle, F.S., Morett, L.M., *In Progress Writing; Tentative Publication in 2026 or 2027* 
 
 Academic Community & Institutional Services
 ======
@@ -98,5 +99,5 @@ Skills
 Media Appearances & Features
 ======
 - **F03** *The Sensitive Kind*, Background Extra, Filmed March 2025; Aired November 2025 (Tulsa, OK) [Link]
-- **F02** *Arkansas PBS*, Subject of Feature Segment, Filmed March 2025; Aired April 2025 (Little Rock, AR) [Link]
+- **F02** *Arkansas PBS*, Subject of Feature Segment, Filmed March 2025; Aired April 2025 (Conway, AR) [Link]
 - **F01** *City Year Tulsa - AmeriCorps*, Subject of Feature Video, February 12, 2024 (Tulsa, OK) <a href="https://www.facebook.com/watch/?v=1069545221043319">[Link]</a>
