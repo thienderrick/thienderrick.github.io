@@ -10,9 +10,10 @@ author_profile: true
 
 I've always loved to express myself through some type of art form. I joined the Art Club in Middle School and continued so in High School where I also took AP and IB Art courses. At Pomona, I would take a couple of art and film-making classes that would further cement my work in the theme of documentation. Here is a collection of the many creative projects I've produced from my childhood to present day.
 
-# [Digital Art](#digital-art)
-# [Fiber](#fiber)
-# [Film and Video](#film-and-video)
+## Table of Contents
+- [Digital Art](#digital-art)
+- [Fiber](#fiber)
+- [Film and Video](#film-and-video)
 
 ---
 ## Digital Art
@@ -22,14 +23,14 @@ I've always loved to express myself through some type of art form. I joined the 
 **Date:** Fall 2024 - PRESENT  
 **Project Link:** 
 
-![text](/images/NERD_Lab_Logo.png/)
+![text](/images/NERD_Lab_Logo.png)
 ### AAMP Logo Design 2019-2020
 
 **Date:** Fall 2019  
 #### 🔹 About the Project  
 Submitted logo based on cultural roots of Vietnamese Lotus flower as base. Logo worn by student mentors of the Asian American Mentoring Program at Pomona College for the academic year 2019-2020
 
-![text](/images/AAMP_Logo.jpeg/)
+![text](/images/AAMP_Logo.jpeg)
 
 ---
 ## Fiber
@@ -76,13 +77,20 @@ Okay, I'm particularly proud of this one. I recycled the larger scraps of denim 
 
 ### Micro-Documentary - *We Were Here (2023)*
 **Date:** Spring 2023 
+
 **Project Link:** 
+
 ### Micro-Documentary - *In the Shadows* (2020)
 **Date:** Spring 2020 
+
 **Project Link:** 
+
 ### Micro-Documentary - AAMPlympics 2020
 **Date:** Spring 2020 
+
 **Project Link:** 
+
 ### Micro-Documentary - Pitzer Summer Study Abroad 2019
 **Date:** Summer 2019 
+
 **Project Link:** 
