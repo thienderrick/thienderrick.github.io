@@ -18,14 +18,14 @@ Here is a collection of the many creative projects I've produced.
 **Date:** Fall 2024 - PRESENT  
 **Project Link:** 
 
-![text](/images/NERD_Lab_Logo.png/)
+![text](/images/NERD_Lab_Logo.png)
 ### AAMP Logo Design 2019-2020
 
 **Date:** Fall 2019  
 #### 🔹 About the Project  
 Submitted logo based on cultural roots of Vietnamese Lotus flower as base. Logo worn by student mentors of the Asian American Mentoring Program at Pomona College for the academic year 2019-2020
 
-![text](/images/AAMP_Logo.jpeg/)
+![text](/images/AAMP_Logo.jpeg)
 
 ---
 ## [Fiber]
