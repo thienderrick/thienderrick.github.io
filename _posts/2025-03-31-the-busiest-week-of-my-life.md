@@ -22,7 +22,7 @@ In just **one** week, I traveled to **Arkansas, Oklahoma, the University of Mary
 
 🎓 My former **quiz bowl** coach connected me with **Arkansas PBS**, where they were looking to profile past players. What an experience! I got to share my story—how quiz bowl gave me a sense of **liberation in learning**, my journey from an underdog to a liberal arts grad, and how I now juggle multiple roles like a true **jack-of-all-trades**.  
 
-![text](/images/2025-03_ArkPBS.png/)
+![text](/images/2025-03_ArkPBS.png)
 
 ---  
 
@@ -30,7 +30,7 @@ In just **one** week, I traveled to **Arkansas, Oklahoma, the University of Mary
 
 🌟 So, I can officially say I was an **extra** in a TV series by **Sterlin Harjo**! And let me tell you, me and the other extras were **s c r e a m i n g** when he complimented our "extras" performance. (Our role? Playing queer friends meeting up outside a bar—if you know me, you know I wear my personality **on my sleeve** 💅).  
 
-![text](/images/2025-03_FXExtra.jpeg/)
+![text](/images/2025-03_FXExtra.jpeg)
 
 ---  
 
@@ -42,9 +42,9 @@ I was completely overstimulated (in the best way) by all the knowledge, research
 
 💡 I networked with so many brilliant academics and got to pick their brains about the field. Walking away from this, I feel **more confident than ever** about where I want to take my research next.  
 
-![text](/images/2025-03_HSP1.jpeg/)
+![text](/images/2025-03_HSP1.jpeg)
 
-![text](/images/2025-03_HSP2.jpeg/)
+![text](/images/2025-03_HSP2.jpeg)
 
 ---  
 
@@ -52,11 +52,11 @@ I was completely overstimulated (in the best way) by all the knowledge, research
 
 🚎 The conference hooked us up with a **shuttle to Planet Word** (a must-visit for a language nerd like me!) and provided food & drinks from **Immigrant Food** (which, yes, is a brand—and their food was 🔥).  
 
-![text](/images/2025-03_PlanetWord.jpeg/)
+![text](/images/2025-03_PlanetWord.jpeg)
 
 🏃‍♂️ After speed-walking through the exhibit (because time is a construct), I trekked over to **Your Only Friend** for food & drinks with one of my good friends from **Pomona’s Class of 2021**. I love knowing I have friends in every corner of the world. ❤  
 
-![text](/images/2025-03_EmiPet21.JPG/)
+![text](/images/2025-03_EmiPet21.JPG)
 
 ---  
 
