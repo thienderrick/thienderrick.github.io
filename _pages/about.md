@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-# Hi! Welcome to my github.io page where I post the potpourri of my projects and ponderings.
+# 👋 **Hi!** Welcome to my GitHub.io page, where I post the **potpourri** of my projects and ponderings.
 
-My name is Đerrick, and I am currently a lab manager for the Neuroscience of Education Research on Development (NERD) Lab at the University of Missouri within the Department of Speech, Language, and Hearing Sciences at the College of Health sciences, where I work under Dr. Laura M. Morett's supervision. **My current research projects explores second language acquisition, with a particular focus on the role of multimodal processing in lexical tone perception.** I am ecstatic to explore the field of Linguistics from different perspectives to curate my interdiscplinary training for my future graduate studies. 
+🧠 My name is **Đerrick**, and I am currently a **lab manager** for the **Neuroscience of Education Research on Development (NERD) Lab** at the **University of Missouri** within the **Department of Speech, Language, and Hearing Sciences** at the **College of Health Sciences**. I work under **Dr. Laura M. Morett’s** supervision, exploring 🗣️ **second language acquisition**, particularly the role of **multimodal processing in lexical tone perception**. I'm ecstatic to dive into **Linguistics** from different perspectives, curating my **interdisciplinary training** for future graduate studies.
 
-As for my academic background, I completed my secondary education from a multicultural public high school in **Springdale, Arkansas** before being named a **QuestBridge Match Scholar** and spending my undergraduate years in Claremont, California, where I received my B.A. from **Pomona College**. I've learned from Asian Pacific Islander Desi American (APIDA) labor leaders all throughout California to my own heritage language at **Pitzer College**, **Hue University**, and the **Southeast Asian Studies Summer Institute (SEASSI) at the University of Wisconsin - Madison**. My work has been supported by the **Foreign Language and Area Studies Fellowship**, and the **Yidan Expendable Fund for Transformative Learning**.
+📚 **Academic Background**  
+I completed my **secondary education** at a 🎓 **multicultural public high school** in **Springdale, Arkansas** before being named a 🏅 **QuestBridge Match Scholar** and attending 🎓 **Pomona College** in Claremont, California. My learning journey has taken me from studying **Asian Pacific Islander Desi American (APIDA) labor leaders** across California to studying my **heritage language** at **Pitzer College, Hue University,** and the **Southeast Asian Studies Summer Institute (SEASSI)** at the **University of Wisconsin - Madison**. My work has been supported by **the Foreign Language and Area Studies Fellowship** and the **Yidan Expendable Fund for Transformative Learning**.
 
-In my free time, I enjoy mentoring first-generation and/or low-income students with navigating (selective) college admissions. Furthermore, I'm a archivist and micro-documentarian who preserves and curate diverse stories through my different archival projects. You can check them out under my Portfolio page! I’m also passionate about language learning and language conservation/revitalization efforts! I can speak Spanish and Vietnamese and I've self-studied Marshallese, Japanese, and Toki Pona.
+✨ **Passions & Interests**  
+- 💡 In my free time, I love **mentoring first-generation and/or low-income students** on navigating (selective) college admissions.  
+- 📜 I'm also an **archivist** and 🎥 **micro-documentarian**, preserving and curating **diverse stories** through different **archival projects**—check them out under my **Portfolio** page!  
+- 🌍 I'm passionate about **language learning** and **language conservation/revitalization efforts**! I can speak **Spanish** 🇪🇸 and **Vietnamese** 🇻🇳, and I'm currently self studying **Marshallese** 🇲🇭, **Japanese** 🇯🇵, and **Toki Pona** 🌀. I've also developed a constructed script for a future conlang I would like to incorporate my linguistics training into.
 
 ---
 
