@@ -10,6 +10,7 @@ author_profile: true
 - [Essential Verbs](#essential-verbs)
   
 ### Radicals
+
 | Radical # | Character | Reading |
 | --------- | --------- | ------- |
 | 1         | 一         | NHẤT    |
