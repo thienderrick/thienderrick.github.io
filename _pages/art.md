@@ -42,13 +42,13 @@ Submitted logo based on cultural roots of Vietnamese Lotus flower as base. Logo 
 
 My 2D Design Professor taught another separate course Screen Printing where my friend Alicia had taken. In the screen printing room, there were these denim aprons that made me wonder... I was also taking Fiber Arts and learning about the horrifying fast fashion industry and reconciling with the massive waste of jeans and denim among many other fabrics. So, I took the thrown/donated jeans and re-purpose them into what you see today!
 
-The second denim apron was a gift to my friend from high school who has kids now! I added pops of pink from pink denim shorts I use to own.
+The second denim apron was a gift to my friend from high school who has kids now! I added pops of pink from pink denim shorts I use to own. And, here's the behind the scenes of making the second base fabric!
 
-![Me and my 2 aprons](/images/art_Denim_Apron1and2.JPG)
+<p align="center">
+  <img src="/images/art_Denim_Apron1and2.JPG" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="/images/art_Denim_Apron2_BTS.jpeg" alt="Image 2" width="45%"/>
+</p>
 
-![Behind the scenes of Apron 2](/images/art_Denim_Apron2_BTS.jpeg)
-
-And here's the behind the scenes of making the second base fabric!
 ### Wallet from Denim Scraps
 
 Okay, I'm particularly proud of this one. I recycled the larger scraps of denim I had into a pattern and made a wallet out of it. An additional layer of that "woah" factor is that I re-purposed this crotch zipper from a pair of purple and indigo shorts. I think of this piece as queer art as it playfully leans into the uncomfortable unzipping of the crotch zipper to access the inside of the wallet. There's a lot of meaning here that I'm hoping to convey, even themes on monetary value and materialism.
@@ -75,10 +75,10 @@ Okay, I'm particularly proud of this one. I recycled the larger scraps of denim 
 ---
 ## Film and Video
 
-### Micro-Documentary - *We Were Here (2023)*
+### Micro-Documentary - *We Were Here* (2023)
 **Date:** Spring 2023 
 
-**Project Link:** 
+**Project Link:** <a href="https://youtu.be/zqH-SDPr4Ks"> YouTube Link </a>
 
 ### Micro-Documentary - *In the Shadows* (2020)
 **Date:** Spring 2020 
@@ -88,9 +88,9 @@ Okay, I'm particularly proud of this one. I recycled the larger scraps of denim 
 ### Micro-Documentary - AAMPlympics 2020
 **Date:** Spring 2020 
 
-**Project Link:** 
+**Project Link:** <a href="https://youtu.be/8MGH89RY650"> YouTube Link </a>
 
 ### Micro-Documentary - Pitzer Summer Study Abroad 2019
 **Date:** Summer 2019 
 
-**Project Link:** 
+**Project Link:** <a href="https://youtu.be/99tuGBkR0jQ"> YouTube Link </a>
