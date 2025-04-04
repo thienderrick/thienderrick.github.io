@@ -7,5 +7,6 @@ tags:
   - life updates
 ---
 
-# Text
-<a href="https://youtu.be/35gU4Er9btk"> YouTube Link </a>
+# 2024-04 Vietnam and Los Angeles 📹
+You can find the video here! 
+👉 <a href="https://youtu.be/35gU4Er9btk"> YouTube Link </a>
