@@ -6,7 +6,9 @@ author_profile: true
 
 # As You May Know, I Consider Myself an **Artist** First.
 
-![Profile Picture of Derrick Against a Textile Background](/images/art_Profile_Picture.jpeg)
+<p align="center">
+  <img src="/images/art_Profile_Picture.jpeg" alt="Image 1" width="50%"/>
+</p>
 
 I've always loved to express myself through some type of art form. I joined the Art Club in Middle School and continued so in High School where I also took AP and IB Art courses. At Pomona, I would take a couple of art and film-making classes that would further cement my work in the theme of documentation. Here is a collection of the many creative projects I've produced from my childhood to present day.
 
@@ -38,14 +40,14 @@ Submitted logo based on cultural roots of Vietnamese Lotus flower as base. Logo 
 ### Denim Aprons #1 & #2
 **Date:** Spring 2023 & Fall 2023
 
-![My first denim apron](/images/art_Denim_Apron1.jpeg)
+![My first denim apron](/images/art_Denim_Apron1and2.JPG)
 
 My 2D Design Professor taught another separate course Screen Printing where my friend Alicia had taken. In the screen printing room, there were these denim aprons that made me wonder... I was also taking Fiber Arts and learning about the horrifying fast fashion industry and reconciling with the massive waste of jeans and denim among many other fabrics. So, I took the thrown/donated jeans and re-purpose them into what you see today!
 
 The second denim apron was a gift to my friend from high school who has kids now! I added pops of pink from pink denim shorts I use to own. And, here's the behind the scenes of making the second base fabric!
 
 <p align="center">
-  <img src="/images/art_Denim_Apron1and2.JPG" alt="Image 1" width="45%" style="margin-right: 10px;"/>
+  <img src="/images/art_Denim_Apron1.jpeg" alt="Image 1" width="45%" style="margin-right: 10px;"/>
   <img src="/images/art_Denim_Apron2_BTS.jpeg" alt="Image 2" width="45%"/>
 </p>
 
@@ -79,6 +81,11 @@ Okay, I'm particularly proud of this one. I recycled the larger scraps of denim 
 **Date:** Spring 2023 
 
 **Project Link:** <a href="https://youtu.be/zqH-SDPr4Ks"> YouTube Link </a>
+
+### Video Project - Midterm for Language and Society
+**Date:** Fall 2020 
+
+**Project Link:** <a href="https://youtu.be/56_JFrhY6DI?si=ivBUZyp_XtW8Chxv&t=30"> YouTube Link </a>
 
 ### Micro-Documentary - *In the Shadows* (2020)
 **Date:** Spring 2020 
