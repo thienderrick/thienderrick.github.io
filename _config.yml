@@ -353,16 +353,3 @@ compress_html:
   ignore:
     envs: development
 
-# Sidebar
-sidebar:
-  - cv
-  label: CV
-  children:
-    - contact-information
-    - education
-    - work-experiences
-    - awards-and-funding
-    - presentations-and-guest-lectures
-    - service-and-outreach
-    - skills
-    - media-appearances
