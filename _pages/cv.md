@@ -31,24 +31,24 @@ redirect_from:
 * Non-Degree Program, Hue University (Đại Học Huế), Summer 2019
 
 ## Work experience
-* Aug 2024 – Present: **Lab Manager & Research Coordinator**  
-  * University of Missouri - Columbia's Neuroscience of Education Research on Development (NERD) Lab, Columbia, Missouri  
-  * Supervisor: **Dr. Laura M. Morett**, PhD
+- Aug 2024 – Present: **Lab Manager & Research Coordinator**  
+  - University of Missouri - Columbia's Neuroscience of Education Research on Development (NERD) Lab, Columbia, Missouri  
+  - Supervisor: **Dr. Laura M. Morett**, PhD
 
-* Jul 2023 – Mar 2024: **Student Success Coach**  
-  * AmeriCorps – City Year, Tulsa, Oklahoma  
+- Jul 2023 – Mar 2024: **Student Success Coach**  
+  - AmeriCorps – City Year, Tulsa, Oklahoma  
 
 - Aug 2020 - Dec 2022: **Department Liaison & Mentor**
   - Pomona College Department of Linguistics and Cognitive Sciences, Claremont, California
 
-* Feb 2019 – Dec 2022: **Assistant Manager & Store Clerk**  
-  * Pomona College Co-op Store, Claremont, California  
+- Feb 2019 – Dec 2022: **Assistant Manager & Store Clerk**  
+  - Pomona College Co-op Store, Claremont, California  
 
-* June 2022 – July 2022: **Front Desk Worker**  
-  * University of Wisconsin, Madison, Wisconsin  
+- June 2022 – July 2022: **Front Desk Worker**  
+  - University of Wisconsin, Madison, Wisconsin  
 
-* Aug 2020 – Mar 2021: **Alternabreak Project Coordinator – Operations Internship**  
-  * Asian American Resource Center, Claremont, California
+- Aug 2020 – Mar 2021: **Alternabreak Project Coordinator – Operations Internship**  
+  - Asian American Resource Center, Claremont, California
 
 ## Awards and Funding
 - **A04** (2025) Fulbright Fellowship English Teaching Assistantship, Semi-Finalist
