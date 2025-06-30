@@ -1,4 +1,5 @@
 ---
+id: cv
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
@@ -44,7 +45,7 @@ redirect_from:
 - Feb 2019 – Dec 2022: **Assistant Manager & Store Clerk**  
   - Pomona College Co-op Store, Claremont, California  
 
-- June 2022 – July 2022: **Front Desk Worker**  
+- June 2022 – July 2022: **Summer Residential Front Desk Associate**  
   - University of Wisconsin, Madison, Wisconsin  
 
 - Aug 2020 – Mar 2021: **Alternabreak Project Coordinator – Operations Internship**  
