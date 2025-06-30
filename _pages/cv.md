@@ -57,7 +57,7 @@ redirect_from:
 - **A01** (2018-2022) QuestBridge National Match Scholarship to Pomona College, $300k+
 
 ## Presentations and Guest Lectures
-- **P07**  Deutsch, C., Nguyen, D., Farran, B.M., & Morett, L.M. (2025, April 15). *Neural Bases of Gesture and Speech Processing in Children with Autism Spectrum Disorder: An fNIRS Study* [Poster Session]. Show Me Research Week 2025. University of Missouri – Columbia, Columbia, Missouri.
+* **P07**  Deutsch, C., Nguyen, D., Farran, B.M., & Morett, L.M. (2025, April 15). *Neural Bases of Gesture and Speech Processing in Children with Autism Spectrum Disorder: An fNIRS Study* [Poster Session]. Show Me Research Week 2025. University of Missouri – Columbia, Columbia, Missouri.
 * **P06**  Nguyen, D., Young, S.E., Earle, F.S., & Morett, L.M., (2025, March 27-29). *Observing Pitch Gestures Facilitates Delayed L2 Lexical Tone Categorization and Discrimination in Novel Words* [Conference Poster Session]. Human Sentence Processing 38. University of Maryland – College Park. College Park, Maryland.
 * **P0B**  Nguyen, D., (2025, March 3). *Lunch and Learn with Derrick* [Community Presentation]. Lunch and Learn Series, Nathan Hale High School. Tulsa, Oklahoma.
 * **P05**  Nguyen, D., (2024, August 27). *Who’s Gagged? Drag Performers’ Autonomy and “Dragging” Their Antagonists* [Internal Guest Lecture Invited by Professor Cécile Evers]. ANTH104 Linguistic Anthropology. Pomona College. Virtual.
