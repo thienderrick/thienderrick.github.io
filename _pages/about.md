@@ -25,20 +25,19 @@ I completed my secondary education at a 🎓 multicultural public high school
 
 # 📰 Latest News & Updates
 
-## August 2025
+## November 2025
+- 🛎️ **Volunteered for Mizzou Quiz Bowl Tournament**  
+  I had the opportunity to return to Mizzou's Quiz Bowl Competition to serve as a moderator for High School division! I got recognized by many and even had a new coach tell me, "You're one hell of a moderator!"
+- 🎓 **Research Poster Presentation at... COMING SOON**
+
+## October 2025
+- 🛎️ **Volunteered for Missouri Quiz Bowl Competition**  
+  I moderated for an academic bowl competition for High Schoolers across Mid-Missouri in a small town about 45 minutes outside of Columbia.
+-  🤝 **Introduced Research to Mizzou Undergraduates**
+  At the end of the month, our lab was invited to talk about our research to an introduction to Speech, Language, and Hearing Sciences class where I delivered a presentation on our work and how undergraduates can get involved!
+
+## September 2025
 - 🧑‍🏫 **Volunteered for Posse**  
-  Assisted with the selection of Virtual Posse Scholars!
-
-## July 2025
-- 🧠 **Introduced EEG Lab to Mizzou Summer Bridge Scholars**
-  Had the honor of welcoming incoming students through the Mizzou Summer Bridge Accelerator Program to our EEG Lab! I shared how we use neuroimaging methodologies to explore gesture, language acquisition, processing, and developmental neuropsychology within medical contexts.
-
-## May 2025
-- 🧑‍🏫 **Volunteered for Posse**  
-  Assisted two incredible Posse Scholars with refining their resumes and offering career advice. Grateful to be part of their journey and to pay it forward with insights from my own path.
-
-- 📄 **Accepted Offer for Additional Year!**  
-  I’ll be staying on as lab manager for another academic year under the mentorship of Dr. Laura M. Morett! Excited to deepen my research experience and gear up for the next round of program applications.
-
-- 🎉 **Celebrated Birthday in the Midwest with Community**  
-  Took a birthday road trip to Madison, WI and Chicago, IL for a mini Pomona FLI Alum reunion weekend. Reunited with some of the people who shaped my journey—Julian ’21, Ev ’21, Diana ’23 (not pictured). Immense thanks to Ate for caring for me so deeply this weekend. Can’t wait to see the family again! (Upcoming Blog Post)
+  Once again, I assisted with the selection of Virtual Posse Scholars this month!
+- 🎭 **Tried Out Improv Class**
+  I signed up for a weekly Improv class but only attended 3-4 of the classes out of 8. While it was fun, I learned that I have specific boundaries for myself that I needed to prioritize. I also originally signed up to confront my stage fright, which I'm still learning to manage!
