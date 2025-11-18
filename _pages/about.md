@@ -28,7 +28,7 @@ I completed my secondary education at a 🎓 multicultural public high school
 - 🛎️ **Volunteered for Mizzou & Hannibal Quiz Bowl Tournament**  
   I had the opportunity to return to Mizzou's Quiz Bowl Competition to serve as a moderator for High School division! I got recognized by many and even had a new coach tell me, "You're one hell of a moderator!"
 - Along the same vein, I moderated for a JV tournament out in Hannibal and got to share a full circle moment with players. It was 10 years ago this season that I first joined Quiz Bowl.
-- 🎓 **Research Poster Presentation in Denver, Colorado!
+- 🎓 **Research Poster Presentation in Denver, Colorado!**
 - I had the amazing opportunity to present a poster on behalf of my research lab at an annual academic conference for psychology and cognitive scientists!
 ## October 2025
 - 🛎️ **Volunteered for Missouri Quiz Bowl Competition**  
