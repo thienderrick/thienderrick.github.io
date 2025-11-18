@@ -11,8 +11,6 @@ redirect_from:
 
 🧠 My name is **Derrick**, and I am currently a **lab manager** for the Neuroscience of Education Research on Development <a href="https://sites.google.com/umsystem.edu/nerd-lab/home?authuser=0">(NERD) Lab</a> at the **University of Missouri** within the Department of Speech, Language, and Hearing Sciences at the College of Health Sciences.
 
-![Image](/images/About_Timeline.png)
-
 ### 📚 **Academic Background**  
 I completed my secondary education at a 🎓 multicultural public high school in **Springdale, Arkansas** before being selected as a 🏅 **QuestBridge Match Scholar** attending 🎓 **Pomona College** in Claremont, California. My journey has taken me to studying from Asian Pacific Islander Desi American (APIDA) labor leaders across California to my heritage language at Pitzer College, Hue University, and the Southeast Asian Studies Summer Institute (SEASSI) at the University of Wisconsin - Madison. My work has been supported by the Foreign Language and Area Studies Fellowship and the Yidan Expendable Fund for Transformative Learning.
 
@@ -25,17 +23,18 @@ I completed my secondary education at a 🎓 multicultural public high school
 
 # 📰 Latest News & Updates
 
-## November 2025
-- 🛎️ **Volunteered for Mizzou Quiz Bowl Tournament**  
-  I had the opportunity to return to Mizzou's Quiz Bowl Competition to serve as a moderator for High School division! I got recognized by many and even had a new coach tell me, "You're one hell of a moderator!"
-- 🎓 **Research Poster Presentation at... COMING SOON**
 
+## November 2025
+- 🛎️ **Volunteered for Mizzou & Hannibal Quiz Bowl Tournament**  
+  I had the opportunity to return to Mizzou's Quiz Bowl Competition to serve as a moderator for High School division! I got recognized by many and even had a new coach tell me, "You're one hell of a moderator!"
+- Along the same vein, I moderated for a JV tournament out in Hannibal and got to share a full circle moment with players. It was 10 years ago this season that I first joined Quiz Bowl.
+- 🎓 **Research Poster Presentation in Denver, Colorado!
+- I had the amazing opportunity to present a poster on behalf of my research lab at an annual academic conference for psychology and cognitive scientists!
 ## October 2025
 - 🛎️ **Volunteered for Missouri Quiz Bowl Competition**  
   I moderated for an academic bowl competition for High Schoolers across Mid-Missouri in a small town about 45 minutes outside of Columbia.
 -  🤝 **Introduced Research to Mizzou Undergraduates**
   At the end of the month, our lab was invited to talk about our research to an introduction to Speech, Language, and Hearing Sciences class where I delivered a presentation on our work and how undergraduates can get involved!
-
 ## September 2025
 - 🧑‍🏫 **Volunteered for Posse**  
   Once again, I assisted with the selection of Virtual Posse Scholars this month!
