@@ -23,20 +23,25 @@ I completed my secondary education at a 🎓 multicultural public high school
 
 # 📰 Latest News & Updates
 
+## December 2025
+- 🛎️ **Volunteered as Quiz Bowl Moderator in St. Louis, Missouri** x2
+	I am so grateful to have had the time to come out to St. Louis twice this month. I moderated for the Patriot Invitational and Ace Invitational on two separate weekends. One student even said, "You're one of the best moderators I've ever had." 🥹
+
 
 ## November 2025
 - 🛎️ **Volunteered for Mizzou & Hannibal Quiz Bowl Tournament**  
-  I had the opportunity to return to Mizzou's Quiz Bowl Competition to serve as a moderator for High School division! I got recognized by many and even had a new coach tell me, "You're one hell of a moderator!"
-- Along the same vein, I moderated for a JV tournament out in Hannibal and got to share a full circle moment with players. It was 10 years ago this season that I first joined Quiz Bowl.
+	I had the opportunity to return to Mizzou's Quiz Bowl Competition to serve as a moderator for High School division! I got recognized by many and even had a new coach tell me, "You're one hell of a moderator!"
+	Along the same vein, I moderated for a JV tournament out in Hannibal and got to share a full circle moment with players. It was 10 years ago this season that I first joined Quiz Bowl.
+	
 - 🎓 **Research Poster Presentation in Denver, Colorado!**
-- I had the amazing opportunity to present a poster on behalf of my research lab at an annual academic conference for psychology and cognitive scientists!
+	I had the amazing opportunity to present a poster on behalf of my research lab at an annual academic conference for psychology and cognitive scientists!
+
+
 ## October 2025
-- 🛎️ **Volunteered for Missouri Quiz Bowl Competition**  
-  I moderated for an academic bowl competition for High Schoolers across Mid-Missouri in a small town about 45 minutes outside of Columbia.
+- 🛎️ **Volunteered for Missouri Quiz Bowl Competition** 
+	I moderated for an academic bowl competition for High Schoolers across Mid-Missouri in a small town about 45 minutes outside of Columbia.
+	
 -  🤝 **Introduced Research to Mizzou Undergraduates**
-  At the end of the month, our lab was invited to talk about our research to an introduction to Speech, Language, and Hearing Sciences class where I delivered a presentation on our work and how undergraduates can get involved!
-## September 2025
-- 🧑‍🏫 **Volunteered for Posse**  
-  Once again, I assisted with the selection of Virtual Posse Scholars this month!
-- 🎭 **Tried Out Improv Class**
-  I signed up for a weekly Improv class but only attended 3-4 of the classes out of 8. While it was fun, I learned that I have specific boundaries for myself that I needed to prioritize. I also originally signed up to confront my stage fright, which I'm still learning to manage!
+	At the end of the month, our lab was invited to talk about our research to an introduction to Speech, Language, and Hearing Sciences class where I delivered a presentation on our work and how undergraduates can get involved!
+
+
