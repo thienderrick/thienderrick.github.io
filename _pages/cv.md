@@ -59,16 +59,20 @@ redirect_from:
 * (2026). [Conference Talk]. Show-Me Mental State. University of Missouri - Columbia.
 * (2026). [Conference Poster Session]. Human Sentence Processing 39. MIT. Cambridge, Massachusetts.
 * (2026). [Speed Talk]. Neuroscience Graduate Student Organization's Inaugural Brains in Bloom. University of Missouri - Columbia.
+
 **2025**
 - (2025). [Conference Poster Session]. 66th Annual Meeting of the Psychonomics Society. Denver, Colorado.
 * (2025). [Conference Poster Session]. Human Sentence Processing 38. University of Maryland – College Park. College Park, Maryland.
 * (2025). [Community Presentation]. Lunch and Learn Series, Nathan Hale High School. Tulsa, Oklahoma.
+
 **2024**
 * (2024). *Who’s Gagged? Drag Performers’ Autonomy and “Dragging” Their Antagonists* [Internal Guest Lecture Invited by Professor Cécile Evers]. ANTH104 Linguistic Anthropology. Pomona College. Virtual.
 * (2024). *Language and History: Bikini and Totem Pole* [Community Presentation]. City Year Tulsa Ignite Talks 2024, Tulsa Public Library. Tulsa, Oklahoma.
+
 **2022**
 * (2022). [Senior Art Exhibition Thesis]. Pomona College Department of Linguistics and Cognitive Science Thesis Presentations, Pomona College. Claremont, California.
 * (2022). *Analyzing Collocations for (Vietnamese) Language Learning: Using “TÌNH” as a Model* [Conference Talk]. 2022 WISLI Student Conference. Madison, Wisconsin.
+
 **2021**
 * (2021). [Symposium Presentation]. STEM Equity Symposium at the Claremont Colleges. Pomona College. Claremont, California.
 * (2021). *Intro to Vietnamese Linguistics: A Teaching Model (In Progress)* [Symposium Presentation]. Intensive Summer Experience Symposium - Cultural & Ethnic Studies Panel. Pomona College. Claremont, California.
