@@ -20,7 +20,6 @@ redirect_from:
 - [Skills](#skills)
 - [Media Appearances](#media-appearances)
 
-
 ## Contact Information
 * **Email:** dnaa2018@mymail.pomona.edu
 * **LinkedIn Profile:** <a href="https://www.linkedin.com/in/derrick-nguyen-a18732176/"> Link </a>
@@ -55,21 +54,31 @@ redirect_from:
 - **A01** (2018-2022) QuestBridge National Match Scholarship to Pomona College
 
 ## Presentations and Guest Lectures
-- **P10** (2025). *Analog Tokens Facilitate L2 Lexical Tone Learning with Observing Pitch Gestures* [Conference Talk Session - Non Presenting Author]. 66th Annual Meeting of the Psychonomics Society. Denver, Colorado.
-- **P10** (2025). *Sleep Consolidation Enhances L2 Lexical Tone Classification, but Observing Pitch Gestures Modulate Gains* [Conference Poster Session]. 66th Annual Meeting of the Psychonomics Society. Denver, Colorado.
-- **P09** (2025). *Neural Bases of Gesture and Speech Processing in Children with Autism Spectrum Disorder: An fNIRS Study* [Conference Poster Session - Non Presenting Author]. 20th Annual Thompson Center Autism Conference. St. Charles, Missouri.
-* **P08** (2025). *Observing Pitch Gestures: Effects on L2 Lexical Tone Categorization and Discrimination in Novel Words* [Conference Poster Session - Non Presenting Author]. International Society for Gesture Studies 10. Nijmegen, The Netherlands.
-* **P07**  (2025). *Neural Bases of Gesture and Speech Processing in Children with Autism Spectrum Disorder: An fNIRS Study* [Poster Session - Non Presenting Author]. Show Me Research Week 2025. University of Missouri – Columbia, Columbia, Missouri.
-* **P06**  (2025). *Observing Pitch Gestures Facilitates Delayed L2 Lexical Tone Categorization and Discrimination in Novel Words* [Conference Poster Session]. Human Sentence Processing 38. University of Maryland – College Park. College Park, Maryland.
-* **P0B**  (2025). *Lunch and Learn with Derrick* [Community Presentation]. Lunch and Learn Series, Nathan Hale High School. Tulsa, Oklahoma.
-* **P05**  (2024). *Who’s Gagged? Drag Performers’ Autonomy and “Dragging” Their Antagonists* [Internal Guest Lecture Invited by Professor Cécile Evers]. ANTH104 Linguistic Anthropology. Pomona College. Virtual.
-* **P0A**  (2024). *Language and History: Bikini and Totem Pole* [Community Presentation]. City Year Tulsa Ignite Talks 2024, Tulsa Public Library. Tulsa, Oklahoma.
-* **P04**  (2022). *We Were Here* [Senior Art Exhibition Thesis]. Pomona College Department of Linguistics and Cognitive Science Thesis Presentations, Pomona College. Claremont, California.
-* **P03**  (2022). *Analyzing Collocations for (Vietnamese) Language Learning: Using “TÌNH” as a Model* [Conference Talk]. 2022 WISLI Student Conference. Madison, Wisconsin.
-* **P02**  (2021). *Vietnamese Calendars* [Symposium Presentation]. STEM Equity Symposium at the Claremont Colleges. Pomona College. Claremont, California.
-* **P01**  (2021). *Intro to Vietnamese Linguistics: A Teaching Model (In Progress)* [Symposium Presentation]. Intensive Summer Experience Symposium - Cultural & Ethnic Studies Panel. Pomona College. Claremont, California.
+**2026**
+- (2026). [Conference Poster Session]. 67th Annual Meeting of the Psychonomics Society. San, Diego, California.
+* (2026). [Conference Talk]. Show-Me Mental State. University of Missouri - Columbia.
+* (2026). [Conference Poster Session]. Human Sentence Processing 39. MIT. Cambridge, Massachusetts.
+* (2026). [Speed Talk]. Neuroscience Graduate Student Organization's Inaugural Brains in Bloom. University of Missouri - Columbia.
+**2025**
+- (2025). [Conference Poster Session]. 66th Annual Meeting of the Psychonomics Society. Denver, Colorado.
+* (2025). [Conference Poster Session]. Human Sentence Processing 38. University of Maryland – College Park. College Park, Maryland.
+* (2025). [Community Presentation]. Lunch and Learn Series, Nathan Hale High School. Tulsa, Oklahoma.
+**2024**
+* (2024). *Who’s Gagged? Drag Performers’ Autonomy and “Dragging” Their Antagonists* [Internal Guest Lecture Invited by Professor Cécile Evers]. ANTH104 Linguistic Anthropology. Pomona College. Virtual.
+* (2024). *Language and History: Bikini and Totem Pole* [Community Presentation]. City Year Tulsa Ignite Talks 2024, Tulsa Public Library. Tulsa, Oklahoma.
+**2022**
+* (2022). [Senior Art Exhibition Thesis]. Pomona College Department of Linguistics and Cognitive Science Thesis Presentations, Pomona College. Claremont, California.
+* (2022). *Analyzing Collocations for (Vietnamese) Language Learning: Using “TÌNH” as a Model* [Conference Talk]. 2022 WISLI Student Conference. Madison, Wisconsin.
+**2021**
+* (2021). [Symposium Presentation]. STEM Equity Symposium at the Claremont Colleges. Pomona College. Claremont, California.
+* (2021). *Intro to Vietnamese Linguistics: A Teaching Model (In Progress)* [Symposium Presentation]. Intensive Summer Experience Symposium - Cultural & Ethnic Studies Panel. Pomona College. Claremont, California.
 
 ## Service and Outreach
+*   **2026** Missouri Quiz Bowl Alliance, Tiger Bowl XI – Moderator, Columbia, MO
+*   **2026** Missouri Quiz Bowl Alliance, Missouri NAQT Qualifiers – Moderator, Columbia, MO
+*   **2026** Missouri Quiz Bowl Alliance, WUHSAC XXVIII Tournament – Moderator, St. Louis, MO
+*   **2026** Arkansas Governor’s Quiz Bowl Association, Jr. High State – Moderator, Springdale, Arkansas
+*   **2026** National Academic Quiz Tournaments, Sectional Tournament – Moderator, Columbia, MO
 *   **2025** Missouri Quiz Bowl Alliance, Ace Invitational Tournament – Moderator, St. Louis, MO
 *   **2025** Missouri Quiz Bowl Alliance, Patriot Invitational Tournament – Moderator, St. Louis, MO
 *   **2025** Missouri Quiz Bowl Alliance, HUCK FINN II JV Tournament – Moderator, Hannibal, MO
@@ -78,7 +87,7 @@ redirect_from:
 *   **2025** The Posse Foundation, Virtual Resume Coach & Dynamic Assessment Process Volunteer, Virtual
 *   **2025** Mizzou Summer Bridge Accelerator Program, Science Communication Presenter, Columbia, MO
 *   **2025** Arkansas Governor’s Quiz Bowl Association, Sr. High State Tournament – Moderator, Little Rock, AR
-*   **2025** Missouri Quiz Bowl Alliance, Sectional Champion Tournament – Moderator, Columbia, MO
+*   **2025** National Academic Quiz Tournaments, Sectional Champion Tournament – Moderator, Columbia, MO
 *   **2025** Arkansas Governor’s Quiz Bowl Association, Jr. High State Tournament – Moderator, Bryant, AR
 *   **2025** Missouri Quiz Bowl Alliance, Tiger Bowl X – Moderator, Columbia, MO
 *   **2024-2025** Oklahoma Secondary Schools Athletics Association, Academic Bowl Moderator, Tulsa, OK
@@ -103,10 +112,9 @@ redirect_from:
 *   **2017** Springdale High School, Gay Straight Alliance Co-founder, Springdale, AR
 
 ## Skills
-* **Tools:** Obsidian, GitHub, Python (Proficient), JavaScript (Beginner), Linus/Unix (Beginner), Qualtrics, Adobe Creative Suite (Photoshop, Illustrator, Premiere), iMovie, Microsoft & Google Suite, Canva, Shopify, WordPress.org, Audacity
+* **Tools:** Obsidian, GitHub, WordPress.org
 * **Methods/Programs:** Conversational/Critical Discourse Analysis, Psycholinguistic Experiments via PsychoPy & Pavlovia, Praat, R-Studio (Certified)
 * **Languages:** English (Native), Vietnamese (Heritage), Spanish (Intermediate)
-
 
 ## Media Appearances
 - **F03** *The Lowdown*, Background Extra (Didn't Make the final cut TwT), Filmed March 2025; Aired September 2025 (Tulsa, OK)
