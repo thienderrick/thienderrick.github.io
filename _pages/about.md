@@ -18,7 +18,9 @@ I completed my secondary education at a multicultural public high school in 
 - 💡 In my free time, I love **mentoring first-generation and/or low-income students** on navigating (selective) college admissions, transitioning into college, and transitioning post-graduation. I volunteer with a few different organizations such as *Posse* and *QuestBridge* at different capacities.
 - 📜 I'm also an artist, archivist, and advocate, preserving and curating diverse stories through different artistic archival projects—check them out under my Portfolio page!  
 - 🌍 I'm passionate about language learning and language conservation/revitalization efforts! I can speak Spanish 🇪🇸 and Vietnamese 🇻🇳. Otherwise, my academic interests broadly includes Psycholinguistics, Speech Perception, and Sociolinguistics while I specifically am drawn to research about Heritage and L2 (Lexical) Tone Perception/Production.
+
 ---
+
 # 📰 Latest News & Updates
 ## March 2026
 - 🛎️ **Volunteered as Quiz Bowl Moderator in Missouri**
