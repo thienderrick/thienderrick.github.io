@@ -28,6 +28,7 @@ I completed my secondary education at a multicultural public high school in 
 
 - 🎓 **Research Poster Presentation at MIT!**
 	I had the amazing opportunity to present a poster on behalf of my research lab at an annual academic conference during my Spring Break!
+
 ## February 2026
 - 🛎️ **Volunteered as Quiz Bowl Moderator in Arkansas & Missouri** x4
 	Despite a snow storm cancelling a January tournament I had been looking forward to moderate, I started off with the first weekend this month moderating at a string of tournaments. I moderated a collegiate tournament, jr. high state in Arkansas in my home town, an high school invitational at WashU, and Missouri's high school national qualifiers for the NAQT at Columbia College (a liberal arts college <3)
