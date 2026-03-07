@@ -78,26 +78,15 @@ redirect_from:
 * (2021). *Intro to Vietnamese Linguistics: A Teaching Model (In Progress)* [Symposium Presentation]. Intensive Summer Experience Symposium - Cultural & Ethnic Studies Panel. Pomona College. Claremont, California.
 
 ## Service and Outreach
-*   **2026** Missouri Quiz Bowl Alliance, Tiger Bowl XI – Moderator, Columbia, MO
-*   **2026** Missouri Quiz Bowl Alliance, Missouri NAQT Qualifiers – Moderator, Columbia, MO
-*   **2026** Missouri Quiz Bowl Alliance, WUHSAC XXVIII Tournament – Moderator, St. Louis, MO
-*   **2026** Arkansas Governor’s Quiz Bowl Association, Jr. High State – Moderator, Springdale, Arkansas
-*   **2026** National Academic Quiz Tournaments, Sectional Tournament – Moderator, Columbia, MO
-*   **2025** Missouri Quiz Bowl Alliance, Ace Invitational Tournament – Moderator, St. Louis, MO
-*   **2025** Missouri Quiz Bowl Alliance, Patriot Invitational Tournament – Moderator, St. Louis, MO
-*   **2025** Missouri Quiz Bowl Alliance, HUCK FINN II JV Tournament – Moderator, Hannibal, MO
-*   **2025** Missouri Quiz Bowl Alliance, National Academic Fall Tournament – Moderator, Columbia, MO
-*   **2025** Missouri Quiz Bowl Alliance, Bulldog Fall Fiesta – Moderator, Mexico, MO
+*   **2025-2026** National Academic Quiz Tournaments, Moderator
+*   **2025-2026** Missouri Quiz Bowl Alliance, Moderator
+*   **2025-2026** Arkansas Governor's Quiz Bowl Association, Moderator
+*   **2024-2026** QuestBridge, Alumni Mentor
+*   **2023-2026** Pomona College First-Generation Low-Income Scholars, Alumni Archivist
 *   **2025** The Posse Foundation, Virtual Resume Coach & Dynamic Assessment Process Volunteer, Virtual
 *   **2025** Mizzou Summer Bridge Accelerator Program, Science Communication Presenter, Columbia, MO
-*   **2025** Arkansas Governor’s Quiz Bowl Association, Sr. High State Tournament – Moderator, Little Rock, AR
-*   **2025** National Academic Quiz Tournaments, Sectional Champion Tournament – Moderator, Columbia, MO
-*   **2025** Arkansas Governor’s Quiz Bowl Association, Jr. High State Tournament – Moderator, Bryant, AR
-*   **2025** Missouri Quiz Bowl Alliance, Tiger Bowl X – Moderator, Columbia, MO
-*   **2024-2025** Oklahoma Secondary Schools Athletics Association, Academic Bowl Moderator, Tulsa, OK
-*   **2024-2025** QuestBridge, Volunteer Alumni Mentor, Virtual
+*   **2024-2025** Oklahoma Secondary Schools Athletics Association, Academic Bowl Moderator
 *   **2024-2025** Students Rising Above, Volunteer Recent Grad Mentor, Virtual
-*   **2023-2025** Pomona College First-Generation Low-Income Scholars, Alumni Archivist & Mentor, Virtual
 *   **2024** University of Missouri – Columbia STEM Cubs, Instructor, 4th & 5th Grade, Columbia, MO
 *   **2023-2024** AmeriCorps – City Year, Student Success Coach & DEI Coordinator @ Hale High School, Tulsa, OK
 *   **2023-2024** Tulsa Public Schools, Authorized Spanish Interpreter & Translator, Tulsa, OK
