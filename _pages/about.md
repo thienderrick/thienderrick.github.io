@@ -7,21 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 **Hi!** Welcome to my GitHub.io page, where I post the **potpourri** of my projects and ponderings.
+# 👋 **Hi!** Welcome to my GitHub.io page, where I post the **potpourri** of my projects and ponderings.
 
-🧠 My name is **Derrick**, I am currently a **lab manager** for the Neuroscience of Education Research on Development <a href="https://sites.google.com/umsystem.edu/nerd-lab/home?authuser=0">(NERD) Lab</a> at the **University of Missouri** within the Department of Speech, Language, and Hearing Sciences at the College of Health Sciences.
+🧠 My name is **Derrick**, I am currently a **lab manager** for the Neuroscience of Education Research on Development <a href="https://sites.google.com/umsystem.edu/nerd-lab/home?authuser=0">(NERD) Lab</a> at the **University of Missouri** within the Department of Speech, Language, and Hearing Sciences at the College of Health Sciences.
 
-### 📚 **Academic Background**  
-I completed my secondary education at a multicultural public high school in **Springdale, Arkansas** before being selected as a 🏅 **QuestBridge Match Scholar** attending 🎓 **Pomona College** in Claremont, California. My journey has taken me to learning from Asian Pacific Islander Desi American (APIDA) labor leaders across California to my heritage language at Pitzer College, Hue University, and the Southeast Asian Studies Summer Institute (SEASSI) at the University of Wisconsin - Madison. My work has been supported by the Foreign Language and Area Studies Fellowship and the Yidan Expendable Fund for Transformative Learning.
+### 📚 **Academic Background**  
+I completed my secondary education at a multicultural public high school in **Springdale, Arkansas** before being selected as a 🏅 **QuestBridge Match Scholar** attending 🎓 **Pomona College** in Claremont, California. My journey has taken me to learning from Asian Pacific Islander Desi American (APIDA) labor leaders across California to my heritage language at Pitzer College, Hue University, and the Southeast Asian Studies Summer Institute (SEASSI) at the University of Wisconsin - Madison. My work has been supported by the Foreign Language and Area Studies Fellowship and the Yidan Expendable Fund for Transformative Learning.
 
-### ✨ **Passions & Interests**  
-- 💡 In my free time, I love **mentoring first-generation and/or low-income students** on navigating (selective) college admissions, transitioning into college, and transitioning post-graduation. I volunteer with a few different organizations such as *Posse* and *QuestBridge* at different capacities.
-- 📜 I'm also an artist, archivist, and advocate, preserving and curating diverse stories through different artistic archival projects—check them out under my Portfolio page!  
-- 🌍 I'm passionate about language learning and language conservation/revitalization efforts! I can speak Spanish 🇪🇸 and Vietnamese 🇻🇳. Otherwise, my academic interests broadly includes Psycholinguistics, Speech Perception, and Sociolinguistics while I specifically am drawn to research about Heritage and L2 (Lexical) Tone Perception/Production.
+### ✨ **Passions & Interests**  
+- 💡 In my free time, I love **mentoring first-generation and/or low-income students** on navigating (selective) college admissions, transitioning into college, and transitioning post-graduation. I volunteer with a few different organizations such as *Posse* and *QuestBridge* at different capacities. I also am the creator of the WordPress.org website <a href="https://https://pomonaflischolars.us/">pomonaflischolars.us</a> where my work archiving Pomona FLI Scholars History lives.
+- 📜 I'm also an artist, archivist, and advocate, preserving and curating diverse stories through different artistic archival projects—check them out under my Portfolio page! I am an artistic intellect that engages with many mediums from fiber to documentary making.
+- 🌍 I'm passionate about language learning and language conservation/revitalization efforts! I can speak Spanish 🇪🇸 and Vietnamese 🇻🇳. Otherwise, my academic interests broadly includes Psycholinguistics, Speech Perception, and Sociolinguistics while I specifically am drawn to research about Heritage and L2 (Lexical) Tone Perception/Production. I aspire to bridge linguistics with language learning for heritage speakers based on my own experience reconnecting with Vietnamese in higher education.
 
 ---
 
 # 📰 Latest News & Updates
+## April 2026
+- 🛎️ **Volunteered as Quiz Bowl Moderator in Arkansas**
+	I travelled to Fort Smith, Arkansas to volunteer for the State Tournament for Arkansas Governors' Quiz Bowl Association in my second consecutive year!
+
+- 🎤 **Podcast Preview Released On Instagram**
+	I released a conceptual demo of the podcast I am creating for the Pomona FLI Scholar Alumni Community through my Facebook!
+
 ## March 2026
 - 🛎️ **Volunteered as Quiz Bowl Moderator in Missouri**
 	Returned to Moderate Tiger Bowl XI in my second consecutive year!
