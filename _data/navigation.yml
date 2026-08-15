@@ -23,8 +23,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "Art"
-    url: /art/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Resources"
     url: /resources/  
