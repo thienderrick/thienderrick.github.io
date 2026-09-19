@@ -44,7 +44,7 @@ redirect_from:
 - Aug 2020 – May 2022: **Department Liaison & Mentor**
   - Pomona College Department of Linguistics and Cognitive Sciences, Claremont, California
 
-- Aug 2020 – Mar 2021: **Alternabreak Project Coordinator – Operations Internship**  
+- Aug 2020 – Mar 2021: **Alternabreak Project Coordinator – Operations Internship** 
   - Asian American Resource Center, Claremont, California
 
 ## Awards and Funding
@@ -53,12 +53,19 @@ redirect_from:
 - **A02** (2021) Yidan Expendable Fund for Transformative Learning Opportunities for Asian Studies
 - **A01** (2018-2022) QuestBridge National Match Scholarship to Pomona College
 
+## Publications
+**Manuscripts**
+- (2026). [Submitted] **Nguyen, D.**, Young, S.E., Earle, S.F., Morett, L.M. *Speech and Communication.*
+
+**Proceeding Papers**
+- (2026). **Nguyen, D.**, Earle, S.F., Morett, L.M. *Cognitive Science 2026.* Rio De Janeiro, Brazil.
+
 ## Presentations and Guest Lectures
 **2026**
 - (2026). [Conference Poster Session]. 67th Annual Meeting of the Psychonomics Society. San, Diego, California.
 * (2026). [Conference Talk]. Show-Me Mental State. University of Missouri - Columbia.
 * (2026). [Conference Poster Session]. Human Sentence Processing 39. MIT. Cambridge, Massachusetts.
-* (2026). [Speed Talk]. Neuroscience Graduate Student Organization's Inaugural Brains in Bloom. University of Missouri - Columbia.
+* (2026). [Speed Talk]. *Finger Flings and Neural Things: Love at First Gesture*. Neuroscience Graduate Student Organization's Inaugural Brains in Bloom. University of Missouri - Columbia.
 
 **2025**
 - (2025). [Conference Poster Session]. 66th Annual Meeting of the Psychonomics Society. Denver, Colorado.
@@ -78,12 +85,14 @@ redirect_from:
 * (2021). *Intro to Vietnamese Linguistics: A Teaching Model (In Progress)* [Symposium Presentation]. Intensive Summer Experience Symposium - Cultural & Ethnic Studies Panel. Pomona College. Claremont, California.
 
 ## Service and Outreach
+-   **2026-2027** QuestBridge, Industry Leader for Education, Academia and Reseach & Alumni Mentor
+*   **2026** The Posse Foundation, Writing & Resume Coach, Virtual
 *   **2025-2026** National Academic Quiz Tournaments, Moderator
 *   **2025-2026** Missouri Quiz Bowl Alliance, Moderator
 *   **2025-2026** Arkansas Governor's Quiz Bowl Association, Moderator
 *   **2024-2026** QuestBridge, Alumni Mentor
 *   **2023-2026** Pomona College First-Generation Low-Income Scholars, Alumni Archivist
-*   **2025** The Posse Foundation, Virtual Resume Coach & Dynamic Assessment Process Volunteer, Virtual
+*   **2025** The Posse Foundation, Resume Coach & Dynamic Assessment Process Volunteer, Virtual
 *   **2025** Mizzou Summer Bridge Accelerator Program, Science Communication Presenter, Columbia, MO
 *   **2024-2025** Oklahoma Secondary Schools Athletics Association, Academic Bowl Moderator
 *   **2024-2025** Students Rising Above, Volunteer Recent Grad Mentor, Virtual
@@ -105,8 +114,8 @@ redirect_from:
 *   **2017** Springdale High School, Gay Straight Alliance Co-founder, Springdale, AR
 
 ## Skills
-* **Tools:** Obsidian, GitHub, WordPress.org
-* **Methods/Programs:** Conversational/Critical Discourse Analysis, Psycholinguistic Experiments via PsychoPy & Pavlovia, Praat, R-Studio (Certified)
+* **Tools:** Obsidian, Notion, GitHub, WordPress.org
+* **Methods/Programs:** Conversational/Critical Discourse Analysis, Psycholinguistic Experiments via PsychoPy & Pavlovia, Praat, R-Studio 
 * **Languages:** English (Native), Vietnamese (Heritage), Spanish (Intermediate)
 
 ## Media Appearances
